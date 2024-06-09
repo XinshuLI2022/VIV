@@ -1,5 +1,5 @@
 ## VIV
-
+This is the official implemetation of [Distribution-Conditioned Adversarial Variational Autoencoder for Valid Instrumental Variable Generation ]([https://github.com/jhartford/DeepIV](https://ojs.aaai.org/index.php/AAAI/article/view/29271).
 ---
 
 The codes for data generation and evaluation is built on the basis of [Deep IV: A Flexible Approach for Counterfactual Prediction ](https://github.com/jhartford/DeepIV) and [Learning Instrumental Variable from Data Fusion for Treatment Effect Estimation ](https://github.com/causal-machine-learning-lab/meta-em) 
