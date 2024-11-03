@@ -11,13 +11,11 @@ The codes for data generation and evaluation is built on the basis of [Deep IV: 
 Please consider citing this paper if it is helpful for you.
 
 ```sh
-@inproceedings{li2024distribution,
-  title={Distribution-Conditioned Adversarial Variational Autoencoder for Valid Instrumental Variable Generation},
-  author={Li, Xinshu and Yao, Lina},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={38},
-  number={12},
-  pages={13664--13672},
+@inproceedings{li2024self,
+  title={Self-Distilled Disentangled Learning for Counterfactual Prediction},
+  author={Li, Xinshu and Gong, Mingming and Yao, Lina},
+  booktitle={Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+  pages={1667--1678},
   year={2024}
 }
 ```
